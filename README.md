@@ -26,5 +26,5 @@ To run the code in this notebook, you'll need:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone [https://github.com/raunakravi084/Data-handling-using-Pandas-SQL-and-MongoDB/blob/360ebac351732c7a5537216822f07e6c28fdbfcb/32.%2031st%20July_Pandas_Sql_Mongodb_assignment.ipynb]
 
